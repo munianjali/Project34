@@ -29,8 +29,9 @@ This is a web based application developed for health related telugu based websit
  ![anjali services](https://user-images.githubusercontent.com/114798109/216284111-05917d70-9477-4833-b6f7-e935e77f9f9f.jpg)
 ![anjali health bot](https://user-images.githubusercontent.com/114798109/216284127-1f47e868-57f8-4474-b95f-fec376b0d954.png)
 ![anjali static web apps](https://user-images.githubusercontent.com/114798109/216284147-48e1dd80-0b12-4266-bce1-a90e6076d0db.jpg)
+![anjali chat](https://user-images.githubusercontent.com/114798109/216285427-b2144e46-257d-4bd8-bd96-58a58af7927a.jpg)
 
-![healthbot](https://user-images.githubusercontent.com/114798109/207264959-269a85c6-d9ae-43bd-8cb5-26873d07d075.jpg)
+
 
 ![Home](https://user-images.githubusercontent.com/114798109/207264813-8f85a29e-11b5-47bf-b0d3-4b7d35daae58.jpg)
 
